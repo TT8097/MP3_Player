@@ -1,0 +1,16 @@
+D:\.net rozwiazania\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.AssemblyReference.cache
+D:\.net rozwiazania\musicplayer\musicplayer\obj\Debug\Interop.WMPLib.dll
+D:\.net rozwiazania\musicplayer\musicplayer\obj\Debug\AxInterop.WMPLib.dll
+D:\.net rozwiazania\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.ResolveComReference.cache
+D:\.net rozwiazania\musicplayer\musicplayer\obj\Debug\musicplayer.Form1.resources
+D:\.net rozwiazania\musicplayer\musicplayer\obj\Debug\musicplayer.Properties.Resources.resources
+D:\.net rozwiazania\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.GenerateResource.cache
+D:\.net rozwiazania\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.CoreCompileInputs.cache
+D:\.net rozwiazania\musicplayer\musicplayer\bin\Debug\musicplayer.exe.config
+D:\.net rozwiazania\musicplayer\musicplayer\bin\Debug\musicplayer.exe
+D:\.net rozwiazania\musicplayer\musicplayer\bin\Debug\musicplayer.pdb
+D:\.net rozwiazania\musicplayer\musicplayer\bin\Debug\Interop.WMPLib.dll
+D:\.net rozwiazania\musicplayer\musicplayer\bin\Debug\AxInterop.WMPLib.dll
+D:\.net rozwiazania\musicplayer\musicplayer\obj\Debug\musicplayer.exe
+D:\.net rozwiazania\musicplayer\musicplayer\obj\Debug\musicplayer.pdb
+D:\.net rozwiazania\musicplayer\musicplayer\obj\Debug\musicplayer.Form2.resources
